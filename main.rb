@@ -47,3 +47,6 @@ end
 # global variables
 # check with user and balance instead of 0 (hashes and read and write)
 
+puts "thanks for banking with us"
+
+# updated
